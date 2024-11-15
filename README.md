@@ -8,6 +8,7 @@ Welcome to the Threat Intelligence collection! This repository features practica
 - **Threat Landscape:** Understanding current and emerging threats.
 - **Incident Reports:** Case studies and reports on real-world incidents.
 
-## Accessing Writeups
+| Projects                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Stuxbot Threat Hunt          | <a href="Under Construction">Under Construction</a>|
 
-Browse the various writeups for detailed guides and analysis on each topic.

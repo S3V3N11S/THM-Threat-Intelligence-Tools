@@ -1,4 +1,4 @@
-# Threat Intelligence Collection
+# Threat Intelligence and Hunt's Collection
 
 Welcome to the Threat Intelligence collection! This repository features practical guides and insights into understanding and utilizing threat intelligence, including:
 
